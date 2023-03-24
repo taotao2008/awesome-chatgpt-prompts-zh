@@ -6,29 +6,6 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 官网是 https://ai.com/
 
-[国内中文版](https://chat.plexpt.com/login?inviter=1)
-
-它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。
-
-在此页面中，您将找到可与 ChatGPT 一起使用的各种提示。
-
-只需按照README.md文件中的提示输入即可。
-
-<div align=center>
-<img src="https://user-images.githubusercontent.com/15922823/219698816-5196a5a0-7669-495e-a1d3-02fdadd3f507.png" width="400"/> 
-  <p>本LOGO是由人工智能生成的，非常酷炫！</p>
-</div>
-
-[点击这里](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/edit/main/README.md) 可以将您自己的调教指南添加到列表中。
-
-同时您也可以从这个文件中获取创作灵感来创建您自己的提示。
-
-### **ChatGPT成品独享帐号：[购买](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)**
-
-**[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
-**[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
 ------
 
 ## 图片实例
@@ -40,23 +17,6 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 [问题表](./question/README.md)
 
 共约67万个问题，欢迎拿去炼丹。
-
-点击👇🏻传送链接，购买云服务器炼丹：
-- [**阿里云服务器**](https://reurl.cc/NqQXyx) 搜索选择 GPU 计算型
-- [**【腾讯云】云服务器等爆品抢先购，低至4.2元/月**](https://url.cn/B7m0OYnG) 选择 GPU 云服务器
-
-[讨论反馈](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/74)
-
-
-
-
-## 解除封印咒语
-
-#### 如果你想将你的 **ChatGPT** 调教成一只猫娘，最新的教程在这里 [猫娘持续讨论更新](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/12)
-
-#### [更多猫娘玩法点这个](./cat.md)
-
-
 
 ## 它能干什么? 
 
